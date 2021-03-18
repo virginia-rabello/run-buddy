@@ -1,0 +1,51 @@
+.hero {
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+
+.page-title {
+    color: #fce138;
+    display: inline-block;
+    border-bottom: #fce138;
+    border-width: 4px;
+    border-bottom-style: solid;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}
+
+body {
+    width: 80%;
+    margin: auto;
+}
+
+article {
+    color: #024e76;
+
+}
+
+h3{
+    font-size: 25px;
+    margin: 20px 0 20px 0;
+
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0 20px 0;
+
+}
+
+ul {
+    margin: 15px 20px 15px 20px;
+}
+
+li {
+    color: #39a6b2;
+    margin: 10px 0 10px 0;
+}
+
